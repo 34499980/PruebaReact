@@ -1,0 +1,12 @@
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\bin\Debug\netcoreapp3.1\Dto.dll
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\bin\Debug\netcoreapp3.1\Dto.pdb
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Proyectos\PruebaReact\BackEnd\pruebaApi\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
